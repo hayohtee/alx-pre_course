@@ -1,1 +1,1 @@
-This contains informations about git
+## Holds random files and stuffs as demo for working with git
